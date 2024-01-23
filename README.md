@@ -4,15 +4,16 @@
 I am a seasoned Fullstack Developer with over five years of experience, specializing in Angular and React frameworks. My commitment to delivering high-quality and exceptionally usable solutions has led me through various projects and products.
 
 ## 💻 Tech Stack
-* Frontend: Angular, React, Typescript, Stencil
-* Backend: Node.js, NestJS, Express
-* Additional Technologies: Serverless, CI/CD, Kubernetes, BullMQ
+* Frontend: Angular, React, Next.js, Stencil
+* Mobile: Flutter
+* Backend: Node, Nest, Express
+* Additional Technologies: Serverless Framework, CI/CD, Kubernetes, BullMQ, Redis
 
 ## 🌟 Current Role
 I currently hold the position of Senior Software Engineer at Grupo Casas Bahia.
 
 ## 📫 Let's Connect!
-[Linkedin]([https://github.com](https://www.linkedin.com/in/lucas-reichert-35464416a/))
+ * [Linkedin](https://www.linkedin.com/in/lucas-reichert-35464416a/)
 
 Feel free to explore my repositories and projects. Don't hesitate to reach out for collaborations or discussions! 🚀
 
