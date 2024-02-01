@@ -1,7 +1,7 @@
 ### Welcome to my GitHub Profile!
 
 ## 🚀About Me
-I am a seasoned Fullstack Developer with over five years of experience, specializing in Angular and React frameworks. My commitment to delivering high-quality and exceptionally usable solutions has led me through various projects and products.
+I am a seasoned Fullstack Developer with over five years of experience, specializing in JavaScript and TypeScript, as well as Angular and React frameworks. My commitment to delivering high-quality and exceptionally usable solutions has led me through various projects and products.
 
 ## 💻 Tech Stack
 * Frontend: Angular, React, Next.js, Stencil
