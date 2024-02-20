@@ -7,7 +7,7 @@ I am a seasoned Fullstack Developer with over five years of experience, speciali
 * Frontend: Angular, React, Next.js, Stencil
 * Mobile: Flutter
 * Backend: Node, Nest, Express
-* Other Skills: Serverless Framework, CI/CD, Kubernetes, BullMQ, Redis
+* Other Skills: Web Components, Microfrontend, Serverless Framework, CI/CD, Kubernetes, BullMQ, Redis
 
 ## 🌟 Current Role
 I currently hold the position of Senior Software Engineer at Grupo Casas Bahia.
