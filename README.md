@@ -10,7 +10,7 @@ I am a seasoned Fullstack Developer with over five years of experience, speciali
 * Other Skills: Web Components, Microfrontend, Serverless Framework, CI/CD, Kubernetes, BullMQ, Redis
 
 ## 🌟 Current Role
-I currently hold the position of Senior Software Engineer at Grupo Casas Bahia.
+I currently hold the position of Senior Software Engineer at SulAmérica.
 
 ## 📫 Let's Connect!
  * [Linkedin](https://www.linkedin.com/in/lucas-reichert-35464416a/)
